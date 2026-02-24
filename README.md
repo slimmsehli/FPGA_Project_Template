@@ -34,5 +34,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Author
 
 **Slim Msehli**
-FPGA Design Engineer
 [GitHub](https://github.com/slimmsehli) · [LinkedIn](https://linkedin.com/in/slimmsehli)
