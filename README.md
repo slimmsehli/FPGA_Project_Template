@@ -1,4 +1,4 @@
-# Project Name
+# Template
 This is a generic template for FPGA Projects 
 
 ---
